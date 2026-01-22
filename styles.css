@@ -129,7 +129,8 @@ header .wrapper {
 }
 
 #logo {
-	margin-right:20px;
+	max-width: 100px;
+	height: auto;
 }
 
 
